@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "seo"
+version = "0.1.0"
+description = "Anotações sobre SEO de diversas fontes, como livros, cursos e vídeos."
+authors = ["Edson Pimenta <edson.tibo@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+ipykernel = "^6.21.2"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.0.1"
+isort = "^5.12.0"
+pre-commit = "^3.1.1"
+nbqa = {extras = ["toolchain"], version = "^1.6.3"}
+black = "^23.1.0"
+pyupgrade = "^3.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

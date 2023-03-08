@@ -15,3 +15,5 @@ https://support.google.com/webmasters/answer/7042828?hl=en
 https://analytics.google.com/analytics/web
 
 https://search.google.com/search-console/about
+
+https://developers.google.com/search/docs/appearance/google-discover?hl=pt-br

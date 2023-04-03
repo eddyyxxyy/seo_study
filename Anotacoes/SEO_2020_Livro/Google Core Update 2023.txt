@@ -1,0 +1,77 @@
+Google’s March 2023 core update analysis – the good, the bad and the ugly
+Core Updates / By Adam Clarke
+Google has done it again, folks! The search engine giant unleashed the March 2023 Core Update, leaving website owners and SEO professionals scrambling to adjust their strategies. Grab your popcorn and sharpen your pencils, because we’re going to take a deep dive into the chaos and look at what you need to know.
+
+The official March 2023 core update announcement by Google.
+The first core update of 2023 began on March 15th, and Google completed the rollout on March 28th. As with all core updates, Google emphasizes that its primary focus is on improving how its systems assess content quality. So, if your site is affected by changes in search rankings, don’t take it personally—Google is just trying to make the web a better place using its ranking algorithms.
+
+Winners vs losers.
+Analysis of the losers from the March 2023 core update.
+Now, let’s talk about the websites that took a hit from this algorithm update. I’ve personally analyzed the top 20 negatively affected websites, as ranked by Sistrix, and found that they all committed a combination of the following SEO faux pas:
+
+Disastrous design.
+Content that’s more ads than substance (60%-75% of content obscured by ads).
+Mobile browsing experience reduced to a game of “Where’s Waldo?”, with Waldo being the main content (90% of content obscured by multiple popups).
+Text so small you’d need a magnifying glass.
+Design straight out of the ’90s (not in a cool, retro way).
+Site code featuring no actual content, and relying on iframes or JavaScript to populate the HTML (or the DOM if you want to speak fancy).
+Websites with sparse homepages that offer no descriptive content on what the website is actually about (Wiktionary, Wikivoyage are examples—and Google.co.uk surprisingly).
+Sites hosting pirated, illegal or adult content.
+Mobile designs that crumble like a cookie (not the tracking kind).
+
+Google’s March 2023 Core Update – websites that lost traffic
+Analysis of the winners from the March 2023 core update.
+And when we look at the winners, we see some startling similarities.
+
+Mobile designs that degrade gracefully as the viewport collapses down to a vertical layout (it looks good on mobile).
+Popups or overlays that don’t obscure the main content or navigation, on mobile and desktop.
+Main content that is featured prominently and above-the-fold on mobile devices.
+We can gain just as many insights from the winners, as we can from the losers, in this core update.
+
+
+Google’s March 2023 Core Update – websites that gained traffic
+Why did I check the sites in mobile? Well, given that Google’s index is mobile first, and the majority of Google’s traffic is mobile, it makes sense that the content assessment with core updates would be performed primarily in mobile.
+
+How to recover if you’ve been affected
+If you think your website has been affected by the March 2023 Core Update, don’t panic! Instead, take a deep breath and follow these best practices and action steps:
+
+Review your organic search traffic on or around March 15th, 2023, and look for any steep changes in your keyword rankings. If you didn’t experience any dropoffs, then it’s probably best that you don’t do anything.
+Review Google’s advice on core updates and assess your content against their E-A-T (Expertise, Authority, Trustworthiness) guidelines.
+Conduct a thorough website audit, focusing on pages that were negatively impacted, your homepage, and technical SEO aspects.
+Get an honest assessment of your site’s content and design. Consider performing a content audit to ensure you’re providing value to your users and meeting Google’s quality standards.
+Improve your mobile support by ensuring mobile-friendliness for a better user experience.
+Take it easy on the ads, as excessive advertising can negatively impact your performance in the search engine results pages (SERPs).
+Limit the use of popups, especially on mobile devices, as they can obstruct content and frustrate users.
+Monitor your site’s performance and search ranking history regularly to stay informed about any potential impact from Google Search ranking updates and algorithm changes.
+Remember, core updates are a natural part of the evolution of the web, so it’s best to look at them as an opportunity to learn, grow, and improve your site. By focusing on content quality, site metrics, and technical SEO, you can better adapt to Google’s algorithm updates and maintain or improve your search rankings. If you’ve been staying on top of things, it’s unlikely that you would have been severely affected.
+
+Best practices everybody should follow.
+Surviving Google’s core updates can feel like navigating a digital minefield, but worry not! We’ve gathered some best practices to help you stay afloat in the ever-changing world of SEO—no matter if you’ve been affected by a core update or not.
+
+These are best practices everybody should follow to minimize their risk of being affected by a core update. Keep these points in mind to ensure your website remains on Google’s good side:
+
+Focus on high-quality, original content: Google loves content that provides unique insights, original research, or expert analysis. Always strive to create content that goes beyond merely rehashing information found elsewhere and adds substantial value for your users.
+Establish expertise, authoritativeness, and trustworthiness (E-A-T): Demonstrate your expertise in your niche, build your authority, and ensure your content is trustworthy. Include clear author bylines, link to author pages, and provide accurate information backed by credible sources.
+Optimize for user experience: Make sure your website is mobile-friendly, easy to navigate, and free from excessive ads or pop-ups that can distract or annoy users. If navigating your website on mobile feels like solving a rubix cube then you are putting your website at risk. Google appreciates websites that prioritize user experience.
+Keep your content up-to-date: Regularly review your content to ensure it stays fresh, relevant, and accurate. Update outdated information, remove broken links, and continually improve the quality of your content.
+Be prepared for change: Understand that Google’s core updates are designed to improve the search experience for users. Be open to adapting your strategies and embracing change when it occurs. Stay informed about the latest updates, and be proactive in addressing any potential issues.
+Seek honest feedback: Ask for unbiased opinions from people you trust who are not affiliated with your site. Their input can help you identify areas where you can improve your content, design, or overall user experience.
+By adhering to these best practices, you can build a website that not only withstands the occasional turbulence of Google’s core updates but also provides a great user experience, helping you stay ahead in the ever-evolving world of SEO.
+
+What is a core update?
+A core update, is a significant change that Google makes to its search algorithms and systems several times a year. These updates aim to refine the search experience, ensuring that users are presented with helpful and reliable results. While core updates do not specifically target individual pages or websites, they can have a noticeable impact on search rankings.
+
+As the digital landscape evolves, it’s essential for webmasters and SEO professionals to stay informed about core updates and adapt their strategies accordingly.
+
+Closing thoughts
+That’s it for my rather pedestrian analysis. Is there a lot more going on? Absolutely. If you want a much deeper dive, Lily Ray at Amsive Digital and Sistrix always do great rundowns. As does Glenn Gabe from GSQI.
+
+That said, you definitely don’t want to be doing any of the things the losing websites are doing.
+
+That’s it for today. See you in the SERP’s.
+
+Sources and further reading
+
+https://status.search.google.com/incidents/Cou8Tr74r7EXNthuEsaG
+https://developers.google.com/search/updates/core-updates
+https://twitter.com/googlesearchc/status/1636012534426640384?lang=en

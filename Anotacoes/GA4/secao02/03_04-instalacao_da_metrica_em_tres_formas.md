@@ -24,3 +24,16 @@ Por mais que a implementação seja técnica, conhecimentos básicos de HTML já
 
 ## Google Tag Manager
 
+O Tag Manager é uma ferramenta do Google que te ajuda a instalar Tags no seu site, tags estas que agregam eventos à serem disparados em determinadas páginas, botões, entre outros.
+
+O único momento que precisamos de desenvolvedores, quanto ao uso do Tag Manager, é na hora de instalar/colocar os códigos da ferramenta em seu site.
+
+Quando entramos no Tag Manager, após criarmos uma conta e um container (especificando, assim como no GA4, se é Web, iOS, Android, etc), teremos acesso ao código que devemos inserir no `<head>` e `<body>`.
+
+Após isso, podemos "_Adicionar uma nova tag_" por meio da página inicial de nosso container. Dessa forma, colocaremos a vinculação do GTM com o GA4 utilizando nosso ID da Métrica e, somente então, adicionamos um __Acionador__ que executa os códigos da tag e envia os dados para o GA4. Porém, somente isso que fizemos não garante que está funcionando.
+
+Para garantirmos que as coisas estão funcionando como queriamos/precisavamos, podemos clicar em "Visualizar" e teremos uma nova aba com o Tag Assistant, permitindo que testemos nossas tags em tempo real, assim validaremos o fluxo de dados que desejamos.
+
+> O Tag Assistant é uma ferramenta independente do Tag Manager, ou seja, pode ser usada mesmo fora do Tag Manager.
+
+Ainda mais, com o GTM podemos fazer um controle de versões dos nossos Containers, trazendo ainda mais robustez para o uso da ferramenta.

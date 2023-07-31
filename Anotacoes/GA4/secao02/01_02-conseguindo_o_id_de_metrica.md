@@ -4,7 +4,7 @@ O objetivo dessa aula é conseguir o ID da Métrica e depois fazer a instalaçã
 
 ## O que fazer
 
-O primeiro passo é acessar ![analytics.google.com](https://analytics.google.com/) e, quando acessarmos o site, teremos de nos autenticar com uma conta do Google.
+O primeiro passo é acessar [analytics.google.com](https://analytics.google.com/) e, quando acessarmos o site, teremos de nos autenticar com uma conta do Google.
 
 Então, já podemos clicar no botão de início, provavelmente escrito como "Começar a usar".
 

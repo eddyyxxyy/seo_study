@@ -34,4 +34,16 @@ E todos esses detalhes estão disponíveis na já citada documentação. Sabendo
 
 ## Dimensão: Padrão x Personalizada
 
-<!-- Continuar aula 13 da seção 3 -->
+Antes de continuarmos os estudos sobre Métrica Otimizada é essencial que entendamos a diferença entre Dimensões Padrões e Personalizadas, pois isso afeta diretamente o trabalho de análise.
+
+Olhe só, estando no relatório de páginas "_Páginas e Telas_" da aba "_Engajamento_", podemos verificar quais são as páginas mais acessadas de nosso site/app. Por padrão, vemos as páginas pelo seu título (_title tag_) e isso é uma dimensão, ver essas páginas pelo seu título é uma dimensão, é uma perspectiva de análise.
+
+Se quisermos saber a quantidade de usuários que viram essa página precisaremos de uma métrica, como a de "_Usuários_", que mostra quantos usuários viram a página dado a dimensão de tempo definida. "_Título da Página e classe de tela_" é uma dimensão pronta da ferramenta, sabendo disso, podemos escolher outras dimensões padrões e também utilizar dimensões personalizadas.
+
+Cada visualização dessa corresponde à um Page View (evento "_page_view_"), que possui seus parâmetros que detalham esse evento. O título da página é proveniente do parâmetro "_page_title_" e a localização dessa página vem do parâmetro "_page_location_", algo que vimos no relatório "_Páginas e Telas_".
+
+Dessa forma, todos os relatórios que veremos ao usar o GA4 vem dos detalhes (parâmetros) de eventos que são disparados e enviados à nossa propriedade.
+
+Se formos fazer uma análise pelo "_Explorar_", podemos criar uma visualização de dados colocando no elemento de "_Linha_" a dimensão "_Título da Página_" (que advém do parâmetro "_page_title_" do evento "_page_view_") e a métrica "_Usuários Ativos_".
+
+Podemos nos deparar com um cenário onde a dimensão que precisamos não existe por padrão, então teremos de cria-la.

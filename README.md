@@ -34,7 +34,7 @@ Distribuído sobre a licença MIT. Veja `LICENSE` para mais informações.
 ## Meta
 
 Edson Pimenta:
-- edson.tibo@gmail.com
+- dev.eddyyxxyy@gmail.com
 - [Github](https://github.com/eddyyxxyy)
 - [LinkedIn](https://www.linkedin.com/in/eeddyyxxyy/)
 - [Youtube](https://www.youtube.com/channel/UCIISJihJOYOBj-4oZhW3pSw)

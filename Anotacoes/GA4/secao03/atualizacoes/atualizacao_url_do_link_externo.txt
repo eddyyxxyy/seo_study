@@ -1,0 +1,3 @@
+A dimensão personalizada "URL do Link Externo" criada na aula, agora
+existe por padrão. Ela se chama "URL do Link"
+e fica na categoria Link.

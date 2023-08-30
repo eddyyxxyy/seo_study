@@ -1,0 +1,3 @@
+A dimensão personalizada "Termo Pesquisado" criada na aula, agora
+existe por padrão. Ela se chama "Termo de Pesquisa"
+e fica na categoria Geral.

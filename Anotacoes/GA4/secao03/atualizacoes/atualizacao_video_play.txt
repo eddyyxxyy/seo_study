@@ -1,0 +1,3 @@
+A dimensão personalizada "Vídeo Play" criada na aula, agora
+existe por padrão. Ela se chama "URL do Vídeo"
+e fica na categoria Vídeo.

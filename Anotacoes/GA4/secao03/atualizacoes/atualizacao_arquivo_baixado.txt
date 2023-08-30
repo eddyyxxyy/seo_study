@@ -1,0 +1,3 @@
+A dimensão personalizada "Arquivo Baixado" criada na aula, agora
+existe por padrão. Ela se chama "Nome do Arquivo"
+e fica na categoria Geral.
